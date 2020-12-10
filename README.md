@@ -3,7 +3,7 @@
 
 Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida mais facil e divertida com softwares.
 
-- :office_worker: Desenvolvedor Fullstack Estagio **DevMagic LTDA**
+- :office_worker: Desenvolvedor Fullstack **DevMagic LTDA**
 - :blue_heart: Techs: Angular, Node.js, Express, NestJS, Postgres.
 
 
