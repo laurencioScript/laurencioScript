@@ -6,6 +6,10 @@ Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida ma
 - :office_worker: Desenvolvedor Fullstack **DevMagic LTDA**
 - :blue_heart: Techs: Angular, Node.js, Express, NestJS, Postgres.
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurencioScript&hide=html&layout=compact&theme=buefy" />  
+<br /><br />
+<br /><br />
+<br /><br />
 
 ## Projetos Pessoais
 
