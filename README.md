@@ -26,3 +26,5 @@ Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida ma
 - http://node-monster.herokuapp.com/
 - https://github.com/laurencioScript/api-animes
 - Criei uma API com NestJS, essa API fornece +12 mil animes cadastrados e permite qualquer um contribuir acrescentando novos animes que já não estejam cadastrados.
+
+![Snake animation](https://github.com/laurencioScript/laurencioScript/blob/output/github-contribution-grid-snake.svg)
