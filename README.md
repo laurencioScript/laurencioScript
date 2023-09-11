@@ -1,25 +1,18 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/laurencioScript)](https://github.com/laurencioScript)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-laurencio-barbosa/)](https://www.linkedin.com/in/gabriel-laurencio-barbosa/)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/> Olá.</h1>
 
-Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida mais facil e divertida com softwares.
+Eu sou o Gabriel Laurencio (pode me chamar de Laurencio), desenvolvedor com mais de três anos de experiência.
 
-- :blue_heart: Techs: Angular, Node.js, Express, NestJS, Postgres.
+### Situação atual:
 
-## Projetos Pessoais
+- 💼 Sou Tecnólogo formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo <strong>Instituto Federal de São Paulo</strong>.
+- 🔭 Atualmente, estou em busca de oportunidades no mercado.
+- 🌱 Estou aprendendo <strong>GraphQL</strong> e <strong>Github Actions</strong>.
+- 🤔 Meus interesses de estudo incluem <strong>Docker, GraphQL e AWS</strong>, entre outros.
+- 🔍 Estou à procura de oportunidades de carreira na área de <strong>Desenvolvedor NodeJS</strong>.
 
-- ### Node Monster
-  - http://node-monster.herokuapp.com/
-  - https://github.com/laurencioScript/api_monster
-  - Criei uma API com Express, para disponibilizar dados do livro de Monstros do D&D 5e, que visa colaborar com a comunidade de RPG de mesa.
+### Ferramentas com as quais trabalho 🛠
 
-- ### MyBus
-  - https://github.com/laurencioScript/MyBus
-  - Criei esse script porque queria facilitar minha rotina e receber um aviso no whattsap do meu celular quando o onibus tivesse se aproximando do ponto de onibus da faculdade. Devido algumas complicações com o plano free da plataforma de hospedagem Heroku acabou não funcionando corretamente.
-
-- ### API ANIMES
-  - http://node-monster.herokuapp.com/
-  - https://github.com/laurencioScript/api-animes
-  - Criei uma API com NestJS, essa API fornece +12 mil animes cadastrados e permite qualquer um contribuir acrescentando novos animes que já não estejam cadastrados.
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 <hr>
 
