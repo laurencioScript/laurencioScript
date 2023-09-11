@@ -3,7 +3,6 @@
 
 Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida mais facil e divertida com softwares.
 
-- :office_worker: Desenvolvedor Fullstack **DevMagic LTDA**
 - :blue_heart: Techs: Angular, Node.js, Express, NestJS, Postgres.
 
 ## Projetos Pessoais
@@ -21,10 +20,6 @@ Prazer me chamo Gabriel Laurencio e sou programador por que amo deixar a vida ma
   - http://node-monster.herokuapp.com/
   - https://github.com/laurencioScript/api-animes
   - Criei uma API com NestJS, essa API fornece +12 mil animes cadastrados e permite qualquer um contribuir acrescentando novos animes que já não estejam cadastrados.
-
-<hr>
-
-![Snake animation](https://github.com/laurencioScript/laurencioScript/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
